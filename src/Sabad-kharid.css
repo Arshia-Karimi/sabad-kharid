@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(29, 29, 29);
+}
+.container {
+  text-align: center;
+  padding: 60px;
+}
+.p11s {
+  font-size: 130px;
+  color: white;
+  margin-bottom: 0px;
+}
+.button11 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(29, 29, 29);
+  color: white;
+  border-radius: 10px;
+  border: 1px solid red;
+  margin: 5px;
+}
+.button11:hover {
+  color: orange;
+}
+.button12 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(29, 29, 29);
+  color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+  font-weight: bold;
+  margin: 5px;
+}
+.button12:hover {
+  color: orange;
+}
+.button13 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(29, 29, 29);
+  color: white;
+  border-radius: 10px;
+  border: 1px solid green;
+  margin: 5px;
+}
+.button13:hover {
+  color: orange;
+}
