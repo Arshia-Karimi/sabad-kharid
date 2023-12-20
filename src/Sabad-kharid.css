@@ -47,3 +47,10 @@ body {
 .button13:hover {
   color: orange;
 }
+.hidden {
+  display: none;
+}
+p{
+  color: red;
+  font-size: 20px;
+}
